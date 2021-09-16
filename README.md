@@ -13,6 +13,4 @@ https://user-images.githubusercontent.com/60662825/133678855-f031c8f9-1dc1-4302-
 
 
 - DemoOfPartyHireWebsite (Code location: ProjectsInVisualStudioCode/group10PHPMySQL): Created website and corresponding mySQL database as per changing requirements procured from lecturer who was acting as the customer. Langauges used: HTML, CSS, PHP, JavaScript, MySQL.
-Demo videos are too large to embed in a GitHub ReadMe, please find 4 downloadable demo videos in this repository.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_6V_KyouPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Demo videos are too large to embed in a GitHub ReadMe, please find link to youtube video demo here: https://youtu.be/Y_6V_KyouPc
